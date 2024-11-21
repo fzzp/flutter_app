@@ -28,7 +28,6 @@
 
     重新启动即可。
 
-
 ### focus
 当一切都准备就绪后，如何在VS Code开发Flutter项目？
  
@@ -42,3 +41,10 @@
 
 
 Dart函数声明如果没有显式声明返回值类型时会默认当做dynamic处理，注意，函数返回值没有类型推断。
+
+
+
+## 对比前端HTML、JS、CSS学习Flutter
+
+1. Future <=> Promise
+
